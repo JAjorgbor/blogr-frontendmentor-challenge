@@ -1,0 +1,35 @@
+@use 'variables' as *;
+@mixin center-align{
+    
+    justify-content:center;
+    align-items:center;
+}
+@mixin redGradient{
+    background-image:linear-gradient(45deg,$gradientRed,$gradientLightRed);
+}
+@mixin darkBackroundGradient{
+    background-image: linear-gradient(-45deg,$veryDarkGreyBlue,$desaturatedBlue);
+}
+@mixin main-heading{
+    font: {
+        size:2em;
+    }
+    text-align: center;
+}
+@mixin sub-heading {
+    font: {
+        size:1.5em;
+    }
+    margin-bottom:1em;
+
+}
+@mixin white-button{
+    color:$primaryRed;
+background-color: white;
+}
+// mobile mixins for responsiveness
+@mixin small-screen($width:600px){
+@media screen and (max-width:$width){
+    @content;
+}
+}

@@ -1,0 +1,22 @@
+// primary colors
+$primaryRed: hsl(356, 100%, 66%);
+$primaryLightRed: hsl(355, 100%, 74%);
+$primaryDarkBlue: hsl(208, 49%, 24%);
+//header gradient background colors
+$gradientRed: hsl(13, 100%, 72%);
+$gradientLightRed: hsl(353, 100%, 62%);
+// neutral colors
+$whiteText:hsl(0, 0%, 100%);
+$grayishBlue: hsl(240, 2%, 79%);
+$darkGrayishBlue: hsl(207, 13%, 34%);
+$darkBlue: hsl(240, 10%, 16%);
+// background gradient colors
+$veryDarkGreyBlue: hsl(237, 17%, 21%);
+
+$desaturatedBlue:hsl(237, 23%, 32%);
+// dark gradient colors
+$darkGradient: linear-gradient(-45deg,$desaturatedBlue,$veryDarkGreyBlue);
+// fonts
+$overpass-font: 'Overpass', sans-serif;
+        // shadow
+$shadow: 0 2px 5px $darkBlue;
