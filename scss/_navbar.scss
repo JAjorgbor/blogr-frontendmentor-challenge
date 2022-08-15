@@ -1,13 +1,13 @@
 @use 'mixins' as *;
 @use 'variables'as *;
 .intro-header{ 
-    background-image:url("/images/bg-pattern-intro-desktop.svg"),linear-gradient(45deg,$gradientRed,$gradientLightRed);
+    background-image:url("../images/bg-pattern-intro-desktop.svg"),linear-gradient(45deg,$gradientRed,$gradientLightRed);
     background-position:  25% 50%;
     height:80vh;
     color:$whiteText;
     border-bottom-left-radius: 80px;
     @include small-screen(750px){
-        background-image:url("/images/bg-pattern-intro-mobile.svg"),linear-gradient(45deg,$gradientRed,$gradientLightRed);
+        background-image:url("../images/bg-pattern-intro-mobile.svg"),linear-gradient(45deg,$gradientRed,$gradientLightRed);
         background-position:  30% 50%;
 
 
