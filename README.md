@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL here](https://www.frontendmentor.io/solutions/responsive-blogr-landing-page-teMkwKiNxe)
-- Live Site URL: [live site URL here](https://joshuaaj003.github.io/blogr-frontendmentor-challenge/)
+- Live Site URL: [live site URL here](https://JAjorgbor.github.io/blogr-frontendmentor-challenge/)
 
 ### Built with
 
@@ -50,7 +50,7 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@joshuaAj003](https://www.frontendmentor.io/profile/joshuaAj003)
+- Frontend Mentor - [@JAjorgbor](https://www.frontendmentor.io/profile/JAjorgbor)
 - Twitter - [@JAjorgbor](https://www.twitter.com/JAjorgbor)
 
 
